@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Memória</string>
+    <string name="label_create_category">Crie uma categoria</string>
+    <string name="hint_category">Categoria..</string>
+    <string name="label_save">Salvar</string>
+    <string name="label_categories_saved_on_the_left">- As categorias ficam salvas na aba lateral esquerda.</string>
+    <string name="label_swipe_to_delete">- Deslize uma categoria para a direita para excluir.</string>
+    <string name="label_swipe_left_to_edit">- Inicie um deslize para a direita, e então deslize para a esquerda para editar a categoria.</string>
+    <string name="hint_note_title">Título</string>
+    <string name="hint_note_desc">Anotação</string>
+    <string name="label_edit">Editar</string>
+    <string name="alert_note_changes">Salvar as alterações ou descartá-las?</string>
+    <string name="label_discard">Descartar</string>
+    <string name="label_cancel">Cancelar</string>
+
+</resources>
